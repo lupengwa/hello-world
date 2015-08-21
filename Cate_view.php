@@ -7,4 +7,6 @@
  */
 echo json_encode($cate);
 
+
+kdkk
 ?>
